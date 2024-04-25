@@ -5,3 +5,10 @@ uploaded = files.upload()
 
 
 https://stackoverflow.com/questions/56449262/how-to-upload-folders-to-google-colab
+
+
+
+
+
+
+https://chat.openai.com/share/45c3c4f2-909f-4915-9e03-4cbea39a6f3b
